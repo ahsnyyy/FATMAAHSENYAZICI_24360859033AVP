@@ -16,8 +16,8 @@ dizi içerisinde tutulmuş ve bu veriler fonksiyonlara pointer mantığıyla akt
 
 ## Proje Yapısı
 - `src/` klasörü proje kapsamında geliştirilen C kaynak kodlarını içermektedir.
-- `docs/` klasörü proje raporunu (PDF formatında) barındırmaktadır.
 - `README.md` dosyası projeye ait genel açıklamaları içermektedir.
+- Proje raporu PDF formatında mecvuttur.
 
 ## Kullanılan Teknolojiler
 - C Programlama Dili
